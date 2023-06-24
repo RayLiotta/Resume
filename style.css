@@ -1,0 +1,38 @@
+body{
+  
+  background-color: lightblue;
+  
+}
+
+h1{
+  
+  color:green
+}
+
+h2{
+  
+  
+  color:Red
+}
+
+h3{
+  
+  color:yellow;
+    font-size:25px;
+}
+
+h4{
+  color:violet;
+  font-size:30px;
+}
+
+section{
+  
+  font-size:18px;
+}
+
+article{
+  
+  font-size:20px;
+  
+}
